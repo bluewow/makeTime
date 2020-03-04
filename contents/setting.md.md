@@ -55,6 +55,10 @@ window pc 에 test용 MySQL 설치
 -------
 indexController 웹출력 확인
 
+------
+
+mustache dependencies 추가
+- implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
 
 
@@ -64,7 +68,7 @@ indexController 웹출력 확인
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgxNTg0MzIsMTA5NDY3NjM0LDczMD
+eyJoaXN0b3J5IjpbLTE0NTg1MjUwNjAsMTA5NDY3NjM0LDczMD
 UwMTMwNSwxMzQ2MzMyNjI2LC0yMTQwNTY4MTM3LDE4ODcyMzcz
 ODgsODg2NzY3NTczXX0=
 -->
