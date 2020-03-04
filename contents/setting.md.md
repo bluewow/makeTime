@@ -31,14 +31,10 @@ spring.datasource.password=xxxxx
 -   driver-class-name
 	com.mysql.cj.jdbc.Driver 사용
 -   url
-	localhost:3306/ㅡ
-
--   example은 database를 의미합니다.
-
+	localhost:3306/makeTime (table 명)
 -   serverTimezone=UTC
+   URL 쿼리 스트링에 serverTimezone을 작성해줘야 에러가 발생하지 않는다
 
--   URL 쿼리 스트링에 serverTimezone을 작성해줘야 에러가 발생하지 않으므로, 꼭 작성하도록 합니다.
-- 
 ----------
 window pc 에 test용 MySQL 서버 설치
 
@@ -50,7 +46,9 @@ window pc 에 test용 MySQL 서버 설치
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDA1ODM4MiwtMjE0MDU2ODEzNywxOD
+eyJoaXN0b3J5IjpbMTM0NjMzMjYyNiwtMjE0MDU2ODEzNywxOD
 g3MjM3Mzg4LDg4Njc2NzU3M119
 -->
