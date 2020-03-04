@@ -40,7 +40,9 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 기능
 	- Page Layout
 - 작업 1 
-	- 프론트 form 구현
+	- 전체적인 Look & Feel 구성
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgwMTA5NDksMjA4NjE2OTYxMl19
+eyJoaXN0b3J5IjpbLTIwNTYxNzUxMDgsLTEyNDgwMTA5NDksMj
+A4NjE2OTYxMl19
 -->
