@@ -40,10 +40,11 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 기능
 	- Page Layout
 - 작업 1 
-	- Spring boot 세팅
+	- 개발환경 세팅
+- 작업 2
 	- 전체적인 Look & Feel 구성
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzc3NjE4MSwxNDExMzg4MTQ0LC0xMj
-Q4MDEwOTQ5LDIwODYxNjk2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU3MzYzMDAzOCwxODg3Nzc2MTgxLDE0MT
+EzODgxNDQsLTEyNDgwMTA5NDksMjA4NjE2OTYxMl19
 -->
