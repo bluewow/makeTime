@@ -14,8 +14,15 @@ makeTime 내용을 실생활에 적용하기 위한 small project
 
 ![Base 골격](https://github.com/bluewow/makeTime/blob/master/assets/layout.png)
 
-- r
+- 왼쪽 Page
+	- 날짜 표시
+	- 하이라이트 box
+		- 하이라이트 입력
+		- 하이라이트 체크
+	- 초집중 체크 box
+	- 에너지 충전 box
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAzMjMxMjksMjA4NjE2OTYxMl19
+eyJoaXN0b3J5IjpbMjAwNDczMjE1MCwyMDg2MTY5NjEyXX0=
 -->
