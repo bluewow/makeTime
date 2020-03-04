@@ -22,10 +22,10 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 하이라이트 box
 		- 하이라이트 입력
 		- 하이라이트 체크
-	- 초집중 체크 box
+	- 초집중 체크 box (좋음 중간 나쁨)
 	- 에너지 충전 box
 	- 내용 box
-	- 사진(drog and drop)
+	- 사진(drog and drop) clip board 와 png 지원?
 
 - 오른쪽 Page
 	- sorting(TODO)
@@ -58,8 +58,8 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNDI4NzI2LC00NTg1MDkxNTMsLTYzNT
-IwMDk1OCwtMTY4ODU1NjU4NCwtMTQ0MTU4OTgwNCw1MjMwMjA2
-NTMsMTU3MzYzMDAzOCwxODg3Nzc2MTgxLDE0MTEzODgxNDQsLT
-EyNDgwMTA5NDksMjA4NjE2OTYxMl19
+eyJoaXN0b3J5IjpbLTIwNDM3OTY2MzcsLTQ1ODUwOTE1MywtNj
+M1MjAwOTU4LC0xNjg4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAy
+MDY1MywxNTczNjMwMDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NC
+wtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX0=
 -->
