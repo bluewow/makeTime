@@ -15,7 +15,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 ![Base 골격](https://github.com/bluewow/makeTime/blob/master/assets/layout.png)
 
 ## 기능 
-- 로그인
+- 로그인(TODO)
 - 왼쪽 Page
 	- 날짜 표시
 	- 하이라이트 box
@@ -27,12 +27,13 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 사진(drog and drop)
 
 - 오른쪽 Page
+	- sorting(TODO)
 	- Flip 형태의 체크박스
 		- 하이라이트 + 날짜 표시
 
 ## 진행 상태
 
-기획 > 작업 1 > 작업 2 > 작업 3 > 피드백 > 작업 4 > 추가개선
+기획 > 작업 1 > 작업 2 > 작업 3 > 피드백 > 작업 4 > TODO > 추가개선
 
 - Tec
 	- backend : Spring Boot, MySQL, JPA, Maven
@@ -46,7 +47,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 전체적인 Look & Feel 구성
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODMzMjgxMiwxNTczNjMwMDM4LDE4OD
-c3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2MTY5
-NjEyXX0=
+eyJoaXN0b3J5IjpbNTIzMDIwNjUzLDE1NzM2MzAwMzgsMTg4Nz
+c3NjE4MSwxNDExMzg4MTQ0LC0xMjQ4MDEwOTQ5LDIwODYxNjk2
+MTJdfQ==
 -->
