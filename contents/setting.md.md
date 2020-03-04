@@ -1,5 +1,7 @@
 # 작업환경 세팅
 
+**spring boot**
+
 ## Spring boot
 
 Spring Boot Initializer 사용
@@ -62,7 +64,7 @@ indexController 웹출력 확인
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MDcyNzA5LDEwOTQ2NzYzNCw3MzA1MD
-EzMDUsMTM0NjMzMjYyNiwtMjE0MDU2ODEzNywxODg3MjM3Mzg4
-LDg4Njc2NzU3M119
+eyJoaXN0b3J5IjpbNTM4OTYzMDgsMTA5NDY3NjM0LDczMDUwMT
+MwNSwxMzQ2MzMyNjI2LC0yMTQwNTY4MTM3LDE4ODcyMzczODgs
+ODg2NzY3NTczXX0=
 -->
