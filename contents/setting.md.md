@@ -1,6 +1,6 @@
 # 작업환경 세팅
 
-**spring boot**
+**Spring Boot 적용**
 
 ## Spring boot
 
@@ -16,7 +16,7 @@ Spring Boot Initializer 사용
 - Lombok
 - MySQL
 
-## 일지
+## 작업일지
 
 devtools 적용을 위한 설정
 lombok 적용을 위한 설정
@@ -64,7 +64,7 @@ indexController 웹출력 확인
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4OTYzMDgsMTA5NDY3NjM0LDczMDUwMT
-MwNSwxMzQ2MzMyNjI2LC0yMTQwNTY4MTM3LDE4ODcyMzczODgs
-ODg2NzY3NTczXX0=
+eyJoaXN0b3J5IjpbLTE4NTgxNTg0MzIsMTA5NDY3NjM0LDczMD
+UwMTMwNSwxMzQ2MzMyNjI2LC0yMTQwNTY4MTM3LDE4ODcyMzcz
+ODgsODg2NzY3NTczXX0=
 -->
