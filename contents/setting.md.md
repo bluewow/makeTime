@@ -1,5 +1,7 @@
 # 작업환경 세팅
 
+## Spring boot
+
 Spring Boot Initializer 사용
 - [https://start.spring.io/](https://start.spring.io/) 
 
@@ -49,7 +51,7 @@ window pc 에 test용 MySQL 설치
 - mysql.exe 환경변수 추가
 	- table 명 변경
 -------
-indexController 확인완료
+indexController 웹출력 확인
 
 
 
@@ -60,7 +62,7 @@ indexController 확인완료
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDY3NjM0LDczMDUwMTMwNSwxMzQ2Mz
-MyNjI2LC0yMTQwNTY4MTM3LDE4ODcyMzczODgsODg2NzY3NTcz
-XX0=
+eyJoaXN0b3J5IjpbNjM4MDcyNzA5LDEwOTQ2NzYzNCw3MzA1MD
+EzMDUsMTM0NjMzMjYyNiwtMjE0MDU2ODEzNywxODg3MjM3Mzg4
+LDg4Njc2NzU3M119
 -->
