@@ -16,6 +16,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ## 기능 
 - 로그인(TODO)
+- help 화면(TODO)
 - 왼쪽 Page
 	- 날짜 표시
 	- 하이라이트 box
@@ -57,8 +58,8 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc2MjYxOTksLTQ1ODUwOTE1MywtNj
-M1MjAwOTU4LC0xNjg4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAy
-MDY1MywxNTczNjMwMDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NC
-wtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbOTYxNDI4NzI2LC00NTg1MDkxNTMsLTYzNT
+IwMDk1OCwtMTY4ODU1NjU4NCwtMTQ0MTU4OTgwNCw1MjMwMjA2
+NTMsMTU3MzYzMDAzOCwxODg3Nzc2MTgxLDE0MTEzODgxNDQsLT
+EyNDgwMTA5NDksMjA4NjE2OTYxMl19
 -->
