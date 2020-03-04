@@ -14,6 +14,7 @@ makeTime 내용을 실생활에 적용하기 위한 small project
 
 ![Base 골격](https://github.com/bluewow/makeTime/blob/master/assets/layout.png)
 
+- 로그인
 - 왼쪽 Page
 	- 날짜 표시
 	- 하이라이트 box
@@ -21,9 +22,12 @@ makeTime 내용을 실생활에 적용하기 위한 small project
 		- 하이라이트 체크
 	- 초집중 체크 box
 	- 에너지 충전 box
-	- 
+	- 내용 box
 	- 사진(drog and drop)
 
+- 오른쪽 Page
+	- Flip 형태의 체크박스
+		- 하이라이트 + 날짜 표시
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIzNjU2NDgsMjA4NjE2OTYxMl19
+eyJoaXN0b3J5IjpbMTc4MDQzNTU3MiwyMDg2MTY5NjEyXX0=
 -->
