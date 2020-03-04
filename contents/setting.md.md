@@ -24,6 +24,10 @@ If you have database settings to be loaded from a particular profile you may nee
 이를 해결하기 위해 application.properties 에 mysql 관련 url 을 등록하였다
 
 ----------
+window pc 에 test용 MySQL 서버 설치
+
+-------
+
 
 
 
@@ -31,5 +35,6 @@ If you have database settings to be loaded from a particular profile you may nee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzIzNzM4OCw4ODY3Njc1NzNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDA1NjgxMzcsMTg4NzIzNzM4OCw4OD
+Y3Njc1NzNdfQ==
 -->
