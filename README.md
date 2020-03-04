@@ -33,13 +33,17 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 기획 > 작업 1 > 작업 2 > 작업 3 > 피드백 > 작업 4 > 추가개선
 
+Tec
+- backend : Spring Boot, MySQL, JPA, Gradle
+- frontend : bootstrap, jQuery
+
 기획 완료
 - 기능
 - Page Layout
 
 작업 1 
-- spring boot, bootstrap, jQuery, JPA
-- 프론트 구성
+
+- 프론트 form 구현
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODk2NTkzLDIwODYxNjk2MTJdfQ==
+eyJoaXN0b3J5IjpbMzc4NjIyMDEwLDIwODYxNjk2MTJdfQ==
 -->
