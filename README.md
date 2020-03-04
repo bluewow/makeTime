@@ -31,7 +31,15 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ## 진행 상태
 
-기획 > 작업 1 > 작업 2 > 작업 3 > 피드백 > 작업 4 > 
+기획 > 작업 1 > 작업 2 > 작업 3 > 피드백 > 작업 4 > 추가개선
+
+기획 완료
+- 기능
+- Page Layout
+
+작업 1 
+- spring boot, bootstrap, jQuery, JPA
+- 프론트 구성
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTI5MjI1MCwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbLTM5ODk2NTkzLDIwODYxNjk2MTJdfQ==
 -->
