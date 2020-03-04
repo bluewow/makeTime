@@ -14,10 +14,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ![Base 골격](https://github.com/bluewow/makeTime/blob/master/assets/layout.png)
 
-|로그인  |  | |
-|--|--|--|
-|  |  |s |
-
+## 기능 
 - 로그인
 - 왼쪽 Page
 	- 날짜 표시
@@ -49,7 +46,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 전체적인 Look & Feel 구성
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzU0NTE2NiwxNTczNjMwMDM4LDE4OD
+eyJoaXN0b3J5IjpbMTc5ODMzMjgxMiwxNTczNjMwMDM4LDE4OD
 c3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2MTY5
 NjEyXX0=
 -->
