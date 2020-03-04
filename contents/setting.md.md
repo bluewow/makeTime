@@ -13,6 +13,12 @@ Spring Boot Initializer 사용
 - MySQL
 
 ## 일지
+
+devtools 적용을 위한 설정
+lombok 적용을 위한 설정
+security 임시 주석처리
+
+---------------
 initializer 를 사용하여 압축파일을 내려받고, intellij 에서 import 후 실행시 DB 관련 에러가 발생했다
 ```text
 Consider the following:
@@ -43,6 +49,7 @@ window pc 에 test용 MySQL 설치
 - mysql.exe 환경변수 추가
 	- table 명 변경
 -------
+indexController 확인완료
 
 
 
@@ -53,6 +60,7 @@ window pc 에 test용 MySQL 설치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNTAxMzA1LDEzNDYzMzI2MjYsLTIxND
-A1NjgxMzcsMTg4NzIzNzM4OCw4ODY3Njc1NzNdfQ==
+eyJoaXN0b3J5IjpbMTA5NDY3NjM0LDczMDUwMTMwNSwxMzQ2Mz
+MyNjI2LC0yMTQwNTY4MTM3LDE4ODcyMzczODgsODg2NzY3NTcz
+XX0=
 -->
