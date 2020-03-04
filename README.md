@@ -39,7 +39,8 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 작업 3(백엔드) >>
 피드백 >>
 작업 4(피드백 보안)
-TODO List >>
+완성도 작업 >>
+TODO List 작업 >>
 추가개선 사항 체크 >>
 
 - Tec
@@ -54,8 +55,8 @@ TODO List >>
 	- 전체적인 Look & Feel 구성
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MjgwNjQ5LC0xNjg4NTU2NTg0LC0xND
-QxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LDE4ODc3NzYx
-ODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTYzNTIwMDk1OCwtMTY4ODU1NjU4NCwtMT
+Q0MTU4OTgwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3Nzc2
+MTgxLDE0MTEzODgxNDQsLTEyNDgwMTA5NDksMjA4NjE2OTYxMl
+19
 -->
