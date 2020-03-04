@@ -1,7 +1,11 @@
 # 작업환경 세팅
 
-[https://start.spring.io/](https://start.spring.io/)
-Spring Boot 
+Spring Boot Initializr 사용
+- [https://start.spring.io/](https://start.spring.io/) 
+- 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAwMjY1ODldfQ==
+eyJoaXN0b3J5IjpbLTgzNjI0NTA5NV19
 -->
