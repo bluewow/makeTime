@@ -1,6 +1,6 @@
-# makeTime
+# MakeTime
 
-makeTime 내용을 실생활에 적용하기 위한 small project
+makeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ## 컨셉
 
@@ -29,5 +29,5 @@ makeTime 내용을 실생활에 적용하기 위한 small project
 	- Flip 형태의 체크박스
 		- 하이라이트 + 날짜 표시
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDQzNTU3MiwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwOTE2MDI2OTQsMjA4NjE2OTYxMl19
 -->
