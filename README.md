@@ -9,8 +9,8 @@ makeTime 내용을 실생활에 적용하기 위한 small project
 
 ## 구조
 
-** 
+![https://github.com/bluewow/makeTime/blob/master/assets/Make-Time-Notes-simple-1.pdf](https://github.com/bluewow/makeTime/blob/master/assets/Make-Time-Notes-simple-1.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYxMTQzNjJdfQ==
+eyJoaXN0b3J5IjpbMTgxMjM2ODYyMF19
 -->
