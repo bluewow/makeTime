@@ -29,7 +29,9 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- Flip 형태의 체크박스
 		- 하이라이트 + 날짜 표시
 
-##
+## 진행 상태
+
+기획 >  > 작업 2 > 작업 3 > 피드백 > 작업 4 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzgxMTAzMCwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbNjMxOTM5NjI3LDIwODYxNjk2MTJdfQ==
 -->
