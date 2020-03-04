@@ -22,7 +22,8 @@ makeTime 내용을 실생활에 적용하기 위한 small project
 	- 초집중 체크 box
 	- 에너지 충전 box
 	- 
+	- 사진(drog and drop)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDczMjE1MCwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3NTIzNjU2NDgsMjA4NjE2OTYxMl19
 -->
