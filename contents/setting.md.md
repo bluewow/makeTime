@@ -36,8 +36,12 @@ spring.datasource.password=xxxxx
    URL 쿼리 스트링에 serverTimezone을 작성해줘야 에러가 발생하지 않는다
 
 ----------
-window pc 에 test용 MySQL 서버 설치
 
+window pc 에 test용 MySQL 설치
+- MySQL Server 8.0
+- MySQL Workbench 8.0 CE
+- mysql.exe 환경변수 추가
+	- table 명 변경
 -------
 
 
@@ -49,6 +53,6 @@ window pc 에 test용 MySQL 서버 설치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjMzMjYyNiwtMjE0MDU2ODEzNywxOD
-g3MjM3Mzg4LDg4Njc2NzU3M119
+eyJoaXN0b3J5IjpbNzMwNTAxMzA1LDEzNDYzMzI2MjYsLTIxND
+A1NjgxMzcsMTg4NzIzNzM4OCw4ODY3Njc1NzNdfQ==
 -->
