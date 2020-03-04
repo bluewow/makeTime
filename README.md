@@ -54,11 +54,11 @@ TODO List 작업 >>
 - 작업 1 
 	- [개발환경 세팅](https://github.com/bluewow/makeTime/blob/master/contents/setting.md.md)
 - 작업 2
-	- 전체적인 Look & Feel 구성
+	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNj
-g4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMw
-MDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OS
-wyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbLTE2Mjc2MjYxOTksLTQ1ODUwOTE1MywtNj
+M1MjAwOTU4LC0xNjg4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAy
+MDY1MywxNTczNjMwMDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NC
+wtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX0=
 -->
