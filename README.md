@@ -31,7 +31,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ## 진행 상태
 
-기획 >  > 작업 2 > 작업 3 > 피드백 > 작업 4 > 
+기획 > 작업 1 > 작업 2 > 작업 3 > 피드백 > 작업 4 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxOTM5NjI3LDIwODYxNjk2MTJdfQ==
+eyJoaXN0b3J5IjpbLTY4MTI5MjI1MCwyMDg2MTY5NjEyXX0=
 -->
