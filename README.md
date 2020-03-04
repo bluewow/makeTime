@@ -10,7 +10,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 **SIMPLE**
 
-## 구조
+## 구조 (대략적인 look & feel)
 
 ![Base 골격](https://github.com/bluewow/makeTime/blob/master/assets/layout.png)
 
