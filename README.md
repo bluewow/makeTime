@@ -34,8 +34,8 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 ## 진행 상태
 
 기획 >> 완료
-작업 1(개발환경) >> 진행중
-작업 2(프론트) >>
+작업 1(개발환경) >> 완료
+작업 2(프론트) >> 진행중 0%
 작업 3(백엔드) >>
 피드백 >>
 작업 4(피드백 보안)
@@ -54,7 +54,8 @@ TODO List >>
 	- 전체적인 Look & Feel 구성
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg1NTY1ODQsLTE0NDE1ODk4MDQsNT
-IzMDIwNjUzLDE1NzM2MzAwMzgsMTg4Nzc3NjE4MSwxNDExMzg4
-MTQ0LC0xMjQ4MDEwOTQ5LDIwODYxNjk2MTJdfQ==
+eyJoaXN0b3J5IjpbMjI1MjgwNjQ5LC0xNjg4NTU2NTg0LC0xND
+QxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LDE4ODc3NzYx
+ODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX
+0=
 -->
