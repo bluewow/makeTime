@@ -30,7 +30,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 - 오른쪽 Page
 	- sorting(TODO)
 	- Flip 형태의 체크박스
-		- 하이라이트 + 날짜 표시
+		- 하이라이트 + 날짜 표시 + thumnail(TODO)
 - 오른쪽 Page(Toggle)
   - 카드형태의 Task 표시
 
@@ -58,7 +58,7 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM3OTY2MzcsLTQ1ODUwOTE1MywtNj
+eyJoaXN0b3J5IjpbLTEwODIyMTk3MDEsLTQ1ODUwOTE1MywtNj
 M1MjAwOTU4LC0xNjg4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAy
 MDY1MywxNTczNjMwMDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NC
 wtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX0=
