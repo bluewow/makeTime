@@ -40,11 +40,12 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 기능
 	- Page Layout
 - 작업 1 
-	- 개발환경 세팅
+	- [개발환경 세팅]
 - 작업 2
 	- 전체적인 Look & Feel 구성
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzYzMDAzOCwxODg3Nzc2MTgxLDE0MT
-EzODgxNDQsLTEyNDgwMTA5NDksMjA4NjE2OTYxMl19
+eyJoaXN0b3J5IjpbMTc4MDk3OTgzOCwxNTczNjMwMDM4LDE4OD
+c3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2MTY5
+NjEyXX0=
 -->
