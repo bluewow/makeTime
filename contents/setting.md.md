@@ -12,6 +12,7 @@ Spring Boot Initializr 사용
 - Lombok
 - MySQL
 
+## 일지
 
 
 
@@ -19,5 +20,5 @@ Spring Boot Initializr 사용
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NzY3NTczXX0=
+eyJoaXN0b3J5IjpbLTUxNjg3MzE5NSw4ODY3Njc1NzNdfQ==
 -->
