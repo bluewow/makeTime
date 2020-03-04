@@ -33,12 +33,19 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ## 진행 상태
 
-기획 > 작업 1(개발환경) > 작업 2(프론트) > 작업 3(백엔드) > 피드백 > 작업 4(피드백 보안) > TODO List > 추가개선 사항 체크
+기획 >> 완료
+작업 1(개발환경) >> 진행중
+작업 2(프론트) >>
+작업 3(백엔드) >>
+피드백 >>
+작업 4(피드백 보안)
+TODO List >>
+추가개선 사항 체크 >>
 
 - Tec
 	- backend : Spring Boot, MySQL, JPA, Maven
 	- frontend : bootstrap, jQuery
-- 기획 완료
+- 기획
 	- 기능
 	- Page Layout
 - 작업 1 
@@ -47,7 +54,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 전체적인 Look & Feel 구성
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE1ODk4MDQsNTIzMDIwNjUzLDE1Nz
-M2MzAwMzgsMTg4Nzc3NjE4MSwxNDExMzg4MTQ0LC0xMjQ4MDEw
-OTQ5LDIwODYxNjk2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODg1NTY1ODQsLTE0NDE1ODk4MDQsNT
+IzMDIwNjUzLDE1NzM2MzAwMzgsMTg4Nzc3NjE4MSwxNDExMzg4
+MTQ0LC0xMjQ4MDEwOTQ5LDIwODYxNjk2MTJdfQ==
 -->
