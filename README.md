@@ -12,12 +12,10 @@ makeTime 내용을 실생활에 적용하기 위한 small project
 
 ## 구조
 
-- 왼쪽페이지
 ![Base 골격](https://github.com/bluewow/makeTime/blob/master/assets/layout.png)
 
-- 오른쪽 페이지
-
+- r
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjE2OTYxMl19
+eyJoaXN0b3J5IjpbLTIxMzAzMjMxMjksMjA4NjE2OTYxMl19
 -->
