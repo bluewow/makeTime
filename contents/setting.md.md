@@ -60,6 +60,8 @@ indexController 웹출력 확인
 mustache dependencies 추가
 - implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
+------
+build tools -> gradle -> build, run target intellij 로 변경 (느린이유, test 반영 이유)
 
 
 
@@ -68,7 +70,7 @@ mustache dependencies 추가
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg1MjUwNjAsMTA5NDY3NjM0LDczMD
-UwMTMwNSwxMzQ2MzMyNjI2LC0yMTQwNTY4MTM3LDE4ODcyMzcz
-ODgsODg2NzY3NTczXX0=
+eyJoaXN0b3J5IjpbLTE0NTQzODgwNzIsLTE0NTg1MjUwNjAsMT
+A5NDY3NjM0LDczMDUwMTMwNSwxMzQ2MzMyNjI2LC0yMTQwNTY4
+MTM3LDE4ODcyMzczODgsODg2NzY3NTczXX0=
 -->
