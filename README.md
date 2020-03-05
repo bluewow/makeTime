@@ -22,7 +22,6 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 날짜 표시
 	- 하이라이트 box
 		- 하이라이트 입력
-		- 하이라이트 체크
 	- 초집중 체크 box (좋음 중간 나쁨)
 	- 에너지 충전 box
 	- 내용 box
@@ -60,9 +59,9 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtND
-g5MTI4MzYsLTEwODIyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAw
-OTU4LC0xNjg4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1My
-wxNTczNjMwMDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0
-ODAxMDk0OSwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbLTk2MzExODc1NywtMTczMjE3NzgyMCwtNT
+A3MTAzNTg2LC00ODkxMjgzNiwtMTA4MjIxOTcwMSwtNDU4NTA5
+MTUzLC02MzUyMDA5NTgsLTE2ODg1NTY1ODQsLTE0NDE1ODk4MD
+QsNTIzMDIwNjUzLDE1NzM2MzAwMzgsMTg4Nzc3NjE4MSwxNDEx
+Mzg4MTQ0LC0xMjQ4MDEwOTQ5LDIwODYxNjk2MTJdfQ==
 -->
