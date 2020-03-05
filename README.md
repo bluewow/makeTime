@@ -8,7 +8,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 **즐거움, 만족감, 개인을 활기차게하는 습관 정착시키기**  
 
-**SIMPLE **
+**SIMPLE**
 
 **반응형**
 
@@ -65,7 +65,7 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMwNjk2MDgsNDUyODMxOTc1LDI1Nz
+eyJoaXN0b3J5IjpbLTE3ODA0ODg2ODYsNDUyODMxOTc1LDI1Nz
 kyODQxMywtMTgzMDc1ODY5NywtOTYzMTE4NzU3LC0xNzMyMTc3
 ODIwLC01MDcxMDM1ODYsLTQ4OTEyODM2LC0xMDgyMjE5NzAxLC
 00NTg1MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NCwtMTQ0
