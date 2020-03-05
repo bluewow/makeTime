@@ -8,7 +8,9 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 **즐거움, 만족감, 개인을 활기차게하는 습관 정착시키기**  
 
-**SIMPLE**
+**SIMPLE **
+
+**반응형**
 
 ## 구조 (대략적인 look & feel)
 
@@ -63,11 +65,11 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTE4OTM2MCw0NTI4MzE5NzUsMjU3OT
-I4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3NTcsLTE3MzIxNzc4
-MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLTEwODIyMTk3MDEsLT
-Q1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2NTg0LC0xNDQx
-NTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LDE4ODc3NzYxOD
-EsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0MzMwNjk2MDgsNDUyODMxOTc1LDI1Nz
+kyODQxMywtMTgzMDc1ODY5NywtOTYzMTE4NzU3LC0xNzMyMTc3
+ODIwLC01MDcxMDM1ODYsLTQ4OTEyODM2LC0xMDgyMjE5NzAxLC
+00NTg1MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NCwtMTQ0
+MTU4OTgwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3Nzc2MT
+gxLDE0MTEzODgxNDQsLTEyNDgwMTA5NDksMjA4NjE2OTYxMl19
 
 -->
