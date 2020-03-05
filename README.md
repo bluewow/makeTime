@@ -39,7 +39,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 기획 >> 완료
 작업 1(개발환경) >> 완료
-작업 2(프론트) >> 진행중 50%
+작업 2(프론트) >> 진행중 70%
 작업 3(백엔드) >>
 피드백 >>
 작업 4(피드백 보안)
@@ -59,10 +59,10 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3OTI4NDEzLC0xODMwNzU4Njk3LC05Nj
-MxMTg3NTcsLTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4
-MzYsLTEwODIyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC
-0xNjg4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTcz
-NjMwMDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMD
-k0OSwyMDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbMTk3MTU5MjA5MSwyNTc5Mjg0MTMsLTE4Mz
+A3NTg2OTcsLTk2MzExODc1NywtMTczMjE3NzgyMCwtNTA3MTAz
+NTg2LC00ODkxMjgzNiwtMTA4MjIxOTcwMSwtNDU4NTA5MTUzLC
+02MzUyMDA5NTgsLTE2ODg1NTY1ODQsLTE0NDE1ODk4MDQsNTIz
+MDIwNjUzLDE1NzM2MzAwMzgsMTg4Nzc3NjE4MSwxNDExMzg4MT
+Q0LC0xMjQ4MDEwOTQ5LDIwODYxNjk2MTJdfQ==
 -->
