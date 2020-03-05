@@ -29,7 +29,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 저장 버튼
 
 - 오른쪽 Page
-	- sorting(TODO)
+	- Filter(TODO)
 	- Flip 형태의 체크박스
 		- 하이라이트 + 날짜 표시 + thumnail(TODO)
 - 오른쪽 Page(Toggle)
@@ -59,10 +59,10 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA3NTg2OTcsLTk2MzExODc1NywtMT
-czMjE3NzgyMCwtNTA3MTAzNTg2LC00ODkxMjgzNiwtMTA4MjIx
-OTcwMSwtNDU4NTA5MTUzLC02MzUyMDA5NTgsLTE2ODg1NTY1OD
-QsLTE0NDE1ODk4MDQsNTIzMDIwNjUzLDE1NzM2MzAwMzgsMTg4
-Nzc3NjE4MSwxNDExMzg4MTQ0LC0xMjQ4MDEwOTQ5LDIwODYxNj
-k2MTJdfQ==
+eyJoaXN0b3J5IjpbMjU3OTI4NDEzLC0xODMwNzU4Njk3LC05Nj
+MxMTg3NTcsLTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4
+MzYsLTEwODIyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC
+0xNjg4NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTcz
+NjMwMDM4LDE4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMD
+k0OSwyMDg2MTY5NjEyXX0=
 -->
