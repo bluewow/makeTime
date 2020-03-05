@@ -41,15 +41,15 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ## 진행 상태
 
-기획 - 완료
-작업 1(개발환경) - 완료
-작업 2(프론트) - 진행중 70%
-작업 3(백엔드) -
-피드백 -
-작업 4(피드백 보안) -
-완성도 작업 -
-TODO List 작업 -
-추가개선 사항 체크 -
+기획 - 완료  
+작업 1(개발환경) - 완료  
+작업 2(프론트) - 진행중 70%  
+작업 3(백엔드) -  
+피드백 -  
+작업 4(피드백 보안) -  
+완성도 작업 -  
+TODO List 작업 -  
+추가개선 사항 체크 -  
 
 - Tec
 	- backend : Spring Boot, MySQL, JPA, Maven
@@ -63,11 +63,11 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjUwMDk2LDQ1MjgzMTk3NSwyNTc5Mj
-g0MTMsLTE4MzA3NTg2OTcsLTk2MzExODc1NywtMTczMjE3Nzgy
-MCwtNTA3MTAzNTg2LC00ODkxMjgzNiwtMTA4MjIxOTcwMSwtND
-U4NTA5MTUzLC02MzUyMDA5NTgsLTE2ODg1NTY1ODQsLTE0NDE1
-ODk4MDQsNTIzMDIwNjUzLDE1NzM2MzAwMzgsMTg4Nzc3NjE4MS
-wxNDExMzg4MTQ0LC0xMjQ4MDEwOTQ5LDIwODYxNjk2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQxOTE4OTM2MCw0NTI4MzE5NzUsMjU3OT
+I4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3NTcsLTE3MzIxNzc4
+MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLTEwODIyMTk3MDEsLT
+Q1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2NTg0LC0xNDQx
+NTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LDE4ODc3NzYxOD
+EsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2MTY5NjEyXX0=
 
 -->
