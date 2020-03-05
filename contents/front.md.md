@@ -7,11 +7,14 @@
 
 - Theme 적용 
 ------
-- 디자인 및 Controller 작업
+- 정적 디자인 및 Controller 작업
+------
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTUwMDY1MywxOTE2MzY0ODc1LC0xMT
+eyJoaXN0b3J5IjpbLTQ4MDYxNzkzMywxOTE2MzY0ODc1LC0xMT
 k4ODI0NzAyXX0=
 -->
