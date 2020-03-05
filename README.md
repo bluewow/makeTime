@@ -16,6 +16,8 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 
 ## 기능 
 - 로그인(TODO)
+- Toggle
+  - 카드형태의 Task 표시
 - help 화면(TODO)
 - 왼쪽 Page
 	- number
@@ -32,8 +34,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- Filter(TODO)
 	- Flip 형태의 체크박스
 		- 하이라이트 + 날짜 표시 + thumnail(TODO)
-- 오른쪽 Page(Toggle)
-  - 카드형태의 Task 표시
+
 
 ## 진행 상태
 
@@ -59,7 +60,7 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTU5MjA5MSwyNTc5Mjg0MTMsLTE4Mz
+eyJoaXN0b3J5IjpbLTQ1OTgyMDUxOCwyNTc5Mjg0MTMsLTE4Mz
 A3NTg2OTcsLTk2MzExODc1NywtMTczMjE3NzgyMCwtNTA3MTAz
 NTg2LC00ODkxMjgzNiwtMTA4MjIxOTcwMSwtNDU4NTA5MTUzLC
 02MzUyMDA5NTgsLTE2ODg1NTY1ODQsLTE0NDE1ODk4MDQsNTIz
