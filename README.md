@@ -26,6 +26,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
 	- 에너지 충전 box
 	- 내용 box
 	- 사진(drog and drop) clip board 와 png 지원?
+	- 저장 버튼
 
 - 오른쪽 Page
 	- sorting(TODO)
@@ -58,8 +59,9 @@ TODO List 작업 >>
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTEyODM2LC0xMDgyMjE5NzAxLC00NT
-g1MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NCwtMTQ0MTU4
-OTgwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3Nzc2MTgxLD
-E0MTEzODgxNDQsLTEyNDgwMTA5NDksMjA4NjE2OTYxMl19
+eyJoaXN0b3J5IjpbLTUwNzEwMzU4NiwtNDg5MTI4MzYsLTEwOD
+IyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2
+NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LD
+E4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2
+MTY5NjEyXX0=
 -->
