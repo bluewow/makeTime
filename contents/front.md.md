@@ -6,11 +6,12 @@
 ## 작업일지
 
 - Theme 적용 
-
 ------
+- 디자인 및 Controller 작업
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjM2NDg3NSwtMTE5ODgyNDcwMl19
+eyJoaXN0b3J5IjpbMTI2NTUwMDY1MywxOTE2MzY0ODc1LC0xMT
+k4ODI0NzAyXX0=
 -->
