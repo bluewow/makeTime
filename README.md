@@ -10,8 +10,6 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 
 **반응형**
 
-**관리형  추가**  
-
 ## 구조 (대략적인 look & feel)
 
 ![Base 골격](https://github.com/bluewow/makeTime/blob/master/assets/layout.png)
@@ -19,7 +17,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 ## 기능 
 - Top 화면
 	- 로그인(TODO)
-	- Toggle
+	- Toggle(TODO)
 	- help 화면(TODO)
 
 - 왼쪽 Page
@@ -27,17 +25,18 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- 날짜 표시
 	- 하이라이트 box
 		- 하이라이트 입력
-	- 초집중 체크 box (좋음 중간 나쁨)
-	- 에너지 충전 box
+	- 진행 체크 box
 	- 내용 box
 	- 사진(drog and drop) clip board 와 png 지원?
 	- 저장 버튼
 
 - 오른쪽 Page
-	- Filter(TODO)
-	- Flip 형태의 체크박스
-		- 하이라이트 + 날짜 표시 + thumnail(TODO)
-	- Toggle 시
+	- Filter
+	- sorting
+	- 일괄편집
+	- 접는 형태의 list
+		- 하이라이트 + 날짜 표시 + thumnail(TODO) 
+	- Toggle 시(TODO)
 	  - 카드형태의 Task 표시
 
 
