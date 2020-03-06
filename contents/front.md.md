@@ -11,12 +11,17 @@
 - 정적 디자인 및 Controller 작업
 ![기초디자인](https://github.com/bluewow/makeTime/blob/master/assets/init-layout.png)
 ------
+intellij 에서 js auto reload 가 안되어 한참을 고생했다
+1. [https://jojoldu.tistory.com/48](https://jojoldu.tistory.com/48) 을 참고하여 수정하였지만 js 파일은 적용이 안됨
+2. setting -> resource pattern 에 js 파일을 추가하여 수정
+
+------------
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDQ2Mjg1MywxOTE2MzY0ODc1LC0xMT
-k4ODI0NzAyXX0=
+eyJoaXN0b3J5IjpbLTE4NDkzOTIyNzMsMTU5NDQ2Mjg1MywxOT
+E2MzY0ODc1LC0xMTk4ODI0NzAyXX0=
 -->
