@@ -25,7 +25,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- 날짜 표시
 	- 하이라이트 box
 		- 하이라이트 입력
-	- 진행 체크 box
+	- 진행여부 체크 box
 	- 내용 box
 	- 사진(drog and drop) clip board 와 png 지원?
 	- 저장 버튼
@@ -64,7 +64,7 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2MzA2MTM1LC0xNzgwNDg4Njg2LDQ1Mj
+eyJoaXN0b3J5IjpbNzkzMzIzNTg3LC0xNzgwNDg4Njg2LDQ1Mj
 gzMTk3NSwyNTc5Mjg0MTMsLTE4MzA3NTg2OTcsLTk2MzExODc1
 NywtMTczMjE3NzgyMCwtNTA3MTAzNTg2LC00ODkxMjgzNiwtMT
 A4MjIxOTcwMSwtNDU4NTA5MTUzLC02MzUyMDA5NTgsLTE2ODg1
