@@ -16,12 +16,12 @@ intellij 에서 js auto reload 가 안되어 한참을 고생했다
 2. setting -> resource pattern 에 js 파일을 추가하여 수정
 
 ------------
-JS 를 제외한 전반적인 디자인 완료. backend 랑 pa
+JS 를 제외한 전반적인 디자인 완료. 이후 backend 와 pair 하게 진행
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzU2ODQ2OSwtMTg0OTM5MjI3MywxNT
+eyJoaXN0b3J5IjpbMjA2MDI4ODEzNCwtMTg0OTM5MjI3MywxNT
 k0NDYyODUzLDE5MTYzNjQ4NzUsLTExOTg4MjQ3MDJdfQ==
 -->
