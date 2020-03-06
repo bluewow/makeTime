@@ -1,6 +1,6 @@
 # Sketch
 
-MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project Sketch
+MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketch**
 
 ## 컨셉
 
