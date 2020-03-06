@@ -33,7 +33,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- Filter
 	- sorting
 	- 일괄편집
-	- 접는 형태의 list
+	- 접는 형태의 list (진행여부에 따른 테두리 색깔처리)
 		- 하이라이트 + 날짜 표시 + thumnail(TODO) 
 	- Toggle 시(TODO)
 	  - 카드형태의 Task 표시
@@ -63,11 +63,11 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjczMzg4MiwtMTc4MDQ4ODY4Niw0NT
-I4MzE5NzUsMjU3OTI4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3
-NTcsLTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLT
-EwODIyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4
-NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMD
-M4LDE4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwy
-MDg2MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbLTc1MDY1ODcwNSwxMTM2NzMzODgyLC0xNz
+gwNDg4Njg2LDQ1MjgzMTk3NSwyNTc5Mjg0MTMsLTE4MzA3NTg2
+OTcsLTk2MzExODc1NywtMTczMjE3NzgyMCwtNTA3MTAzNTg2LC
+00ODkxMjgzNiwtMTA4MjIxOTcwMSwtNDU4NTA5MTUzLC02MzUy
+MDA5NTgsLTE2ODg1NTY1ODQsLTE0NDE1ODk4MDQsNTIzMDIwNj
+UzLDE1NzM2MzAwMzgsMTg4Nzc3NjE4MSwxNDExMzg4MTQ0LC0x
+MjQ4MDEwOTQ5XX0=
 -->
