@@ -1,16 +1,16 @@
-# MakeTime
+# Sketch
 
-MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project
+MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project Sketch
 
 ## 컨셉
-
-**일기장 느낌 not daily**  
 
 **즐거움, 만족감, 개인을 활기차게하는 습관 정착시키기**  
 
 **SIMPLE**
 
 **반응형**
+
+**관리형  추가**  
 
 ## 구조 (대략적인 look & feel)
 
