@@ -40,7 +40,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 - export .md 형태, pdf
 - mode (write, read)
 	- 카드형태의 액자(read 시)
-	- wi
+	- write 시 현재 default
 
 ## 진행 상태
 
@@ -66,7 +66,7 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Njk1MzA5NCwyNjE1MTI0NTAsMTEzNj
+eyJoaXN0b3J5IjpbMTk0NzQyNzM3MCwyNjE1MTI0NTAsMTEzNj
 czMzg4MiwtMTc4MDQ4ODY4Niw0NTI4MzE5NzUsMjU3OTI4NDEz
 LC0xODMwNzU4Njk3LC05NjMxMTg3NTcsLTE3MzIxNzc4MjAsLT
 UwNzEwMzU4NiwtNDg5MTI4MzYsLTEwODIyMTk3MDEsLTQ1ODUw
