@@ -39,7 +39,8 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 - 공유기능
 - export .md 형태, pdf
 - mode (write, read)
-	- 카드형태의 액자
+	- 카드형태의 액자(read 시)
+	- wi
 
 ## 진행 상태
 
@@ -65,11 +66,11 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM1ODgzNDgsMjYxNTEyNDUwLDExMz
-Y3MzM4ODIsLTE3ODA0ODg2ODYsNDUyODMxOTc1LDI1NzkyODQx
-MywtMTgzMDc1ODY5NywtOTYzMTE4NzU3LC0xNzMyMTc3ODIwLC
-01MDcxMDM1ODYsLTQ4OTEyODM2LC0xMDgyMjE5NzAxLC00NTg1
-MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NCwtMTQ0MTU4OT
-gwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3Nzc2MTgxLDE0
-MTEzODgxNDRdfQ==
+eyJoaXN0b3J5IjpbMjA4Njk1MzA5NCwyNjE1MTI0NTAsMTEzNj
+czMzg4MiwtMTc4MDQ4ODY4Niw0NTI4MzE5NzUsMjU3OTI4NDEz
+LC0xODMwNzU4Njk3LC05NjMxMTg3NTcsLTE3MzIxNzc4MjAsLT
+UwNzEwMzU4NiwtNDg5MTI4MzYsLTEwODIyMTk3MDEsLTQ1ODUw
+OTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2NTg0LC0xNDQxNTg5OD
+A0LDUyMzAyMDY1MywxNTczNjMwMDM4LDE4ODc3NzYxODEsMTQx
+MTM4ODE0NF19
 -->
