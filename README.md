@@ -53,7 +53,7 @@ TODO List 작업 -
 추가개선 사항 체크 -  
 
 - Tec
-	- backend : Spring Boot, MySQL, JPA, Maven
+	- backend : Spring Boot, MySQL, JPA, Gradle
 	- frontend : bootstrap, jQuery
 - 기획
 	- 기능
@@ -64,11 +64,11 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA0ODg2ODYsNDUyODMxOTc1LDI1Nz
-kyODQxMywtMTgzMDc1ODY5NywtOTYzMTE4NzU3LC0xNzMyMTc3
-ODIwLC01MDcxMDM1ODYsLTQ4OTEyODM2LC0xMDgyMjE5NzAxLC
-00NTg1MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NCwtMTQ0
-MTU4OTgwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3Nzc2MT
-gxLDE0MTEzODgxNDQsLTEyNDgwMTA5NDksMjA4NjE2OTYxMl19
-
+eyJoaXN0b3J5IjpbMjA2NzQzNzg0MiwtMTc4MDQ4ODY4Niw0NT
+I4MzE5NzUsMjU3OTI4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3
+NTcsLTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLT
+EwODIyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4
+NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMD
+M4LDE4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwy
+MDg2MTY5NjEyXX0=
 -->
