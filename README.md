@@ -21,7 +21,6 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- help 화면(TODO)
 
 - 왼쪽 Page
-	- number
 	- 날짜 표시
 	- 하이라이트 box
 		- 하이라이트 입력
@@ -64,11 +63,11 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMzIzNTg3LC0xNzgwNDg4Njg2LDQ1Mj
-gzMTk3NSwyNTc5Mjg0MTMsLTE4MzA3NTg2OTcsLTk2MzExODc1
-NywtMTczMjE3NzgyMCwtNTA3MTAzNTg2LC00ODkxMjgzNiwtMT
-A4MjIxOTcwMSwtNDU4NTA5MTUzLC02MzUyMDA5NTgsLTE2ODg1
-NTY1ODQsLTE0NDE1ODk4MDQsNTIzMDIwNjUzLDE1NzM2MzAwMz
-gsMTg4Nzc3NjE4MSwxNDExMzg4MTQ0LC0xMjQ4MDEwOTQ5LDIw
-ODYxNjk2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU0MDE2OSwtMTc4MDQ4ODY4Niw0NTI4Mz
+E5NzUsMjU3OTI4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3NTcs
+LTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLTEwOD
+IyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2
+NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LD
+E4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2
+MTY5NjEyXX0=
 -->
