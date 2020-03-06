@@ -27,7 +27,7 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- 진행여부 체크 box
 	- 내용 box
 	- 사진(drog and drop) clip board 와 png 지원?
-	- 저장 버튼
+	- 등록버튼
 
 - 오른쪽 Page
 	- Filter
@@ -63,11 +63,11 @@ TODO List 작업 -
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDE2OSwtMTc4MDQ4ODY4Niw0NTI4Mz
-E5NzUsMjU3OTI4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3NTcs
-LTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLTEwOD
-IyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2
-NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LD
-E4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwyMDg2
-MTY5NjEyXX0=
+eyJoaXN0b3J5IjpbMTEzNjczMzg4MiwtMTc4MDQ4ODY4Niw0NT
+I4MzE5NzUsMjU3OTI4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3
+NTcsLTE3MzIxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLT
+EwODIyMTk3MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4
+NTU2NTg0LC0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMD
+M4LDE4ODc3NzYxODEsMTQxMTM4ODE0NCwtMTI0ODAxMDk0OSwy
+MDg2MTY5NjEyXX0=
 -->
