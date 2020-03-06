@@ -9,36 +9,12 @@ body * {
     font-family: CookieRun-Regular;
 }
 
+.underline-effect {
+    border-bottom: 3px solid #b4e7f8;
+    box-shadow: inset 0 -4px 0 #b4e7f8;
+}
 
-/*중앙정렬*/
-/*.layer{
-  position:absolute;
-  top:0;right:0;bottom:0;left:0;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-
-  display:-webkit-flex;
-  -webkit-align-item;center;
-  -webkit-justify-content:center;
-}*/
-
-/*TEMP*/
-/*
 .container {
-        background: yellow;
-}
+    padding-top: 15px;
 
-div {
-    border :1px solid black;
-}
-*/
-
-#left-page {
-    border-right: 1px solid black;
-    border-left: 1px solid black;
-}
-
-#right-page {
-    border-right: 1px solid black;
 }

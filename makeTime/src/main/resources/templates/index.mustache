@@ -8,55 +8,55 @@
 </head>
 <body>
 <div class="container">
-    <!--Login-->
+    <div class="jumbotron">
+    <!-------------------- Header --------------------->
     <div class="row" id="top">
-        <button type="button" class="btn btn-primary m-3">Login</button>
-        <button type="button" class="btn btn-primary m-3">Card Toggle</button>
+        <h1 class="p-3" style="font-family:'Neucha'">Sketchy</h1>
+        <button type="button" class="btn btn-primary m-4">Login</button>
+        <!--<button type="button" class="btn btn-primary m-3">Card Toggle</button>-->
     </div>
 
-
-
     <div class="row">
-        <!--Left-Page-->
-        <div class="col-xs-12 col-sm-6" id="left-page">
-            <!--No. date-->
+        <!-------------------- Left-Page --------------------->
+        <div class="col-xs-12 col-sm-6 border-right" id="left-page">
+            <!--date-->
             <div class="d-flex justify-content-between">
-                <div class="p-3">No.</div>
-                <div class="p-3">date</div>
+                <div class="underline-effect p-1" id="today"></div>
             </div>
+            <!--highlight-->
             <div class="form-group">
-                <label class="col-form-label col-form-label-lg" for="inputLarge">오늘의 하이라이트</label>
-                <input class="form-control form-control-lg" type="text" placeholder="주제를 입력하세요" id="inputLarge">
-            </div>
-            <div class="row">
-                <div class="col-sm-6 p-2">
-                    집중도
-                </div>
-                <div class="col-sm-6 p-2">
-                    에너지
+                <label class="col-form-label col-form-label-lg" for="title">오늘의 하이라이트</label>
+                <input class="form-control form-control-lg" type="text" placeholder="주제를 입력하세요" autocomplete="off" id="title">
+                <div class="custom-control custom-switch">
+                    <input type="checkbox" class="custom-control-input" id="progress">
+                    <label class="custom-control-label" for="progress">진행여부 체크</label>
                 </div>
             </div>
+
+            <!--content-->
             <div class="form-group">
-                <label for="exampleTextarea">내용</label>
-                <textarea class="form-control" id="exampleTextarea" rows="3" style="margin-top: 0px; margin-bottom: 0px; height: 106px;"></textarea>
+                <label for="content">내용</label>
+                <textarea class="form-control" id="content" rows="3" style="margin-top: 0px; margin-bottom: 0px; height: 106px;"></textarea>
             </div>
+            <!--image-->
             <div class="form-group">
                 <label for="exampleTextarea">이미지</label>
                 <textarea class="form-control" id="exampleTextarea" rows="3" style="margin-top: 0px; margin-bottom: 0px; height: 106px;"></textarea>
             </div>
+
             <div class="text-center p-3">
-                <button type="submit" class="btn btn-primary">저장</button>
+                <button id="save" class="btn btn-primary">등록</button>
             </div>
         </div>
-        <!--middle-line image-->
-<!--        <span id="image"></span>-->
 
-        <!--Right-Page-->
+        <!-------------------- Right-Page --------------------->
         <div class="col-xs-12 col-sm-6" id="right-page">
             <div class="form-group p-2">
                 <label class="col-form-label" for="inputDefault">filter</label>
                 <input type="text" class="form-control" placeholder="Default input" id="inputDefault">
             </div>
+
+            <!--Card-->
             <div id="accordion" role="tablist">
                 <div class="card">
                     <div class="card-header" role="tab" id="headingOne">
@@ -73,35 +73,53 @@
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <div class="card-header" role="tab" id="headingTwo">
-                        <h5 class="mb-0">
-                            <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Collapsible Group Item #2
-                            </a>
-                        </h5>
+
+            </div>
+        </div>
+    </div>
+
+        <!--    카드타입    -->
+<!--    <div style="display:none;">-->
+<!--        <div class="card border-primary mb-3" style="max-width: 20rem;">-->
+<!--            <div class="card-header">Header</div>-->
+<!--            <div class="card-body">-->
+<!--                <h4 class="card-title">Primary card title</h4>-->
+<!--                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+
+    </div>
+
+
+    <!-- Modal -->
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+        Launch demo modal
+    </button>
+
+    <div id="modal" data-toggle="modal" data-target="#exampleModal">
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
                     </div>
-                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
-                        <div class="card-body">
-                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
-                        </div>
+                    <div class="modal-body">
+                        ...
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div>
-        <div class="card border-primary mb-3" style="max-width: 20rem;">
-            <div class="card-header">Header</div>
-            <div class="card-body">
-                <h4 class="card-title">Primary card title</h4>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            </div>
-        </div>
 
-    </div>
 </div>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <script src="/js/index.js"></script>
 </body>
 </html>
