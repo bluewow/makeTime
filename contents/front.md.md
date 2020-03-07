@@ -14,7 +14,7 @@
 intellij 에서 js auto reload 가 안되어 한참을 고생했다
 1. [https://jojoldu.tistory.com/48](https://jojoldu.tistory.com/48) 을 참고하여 수정하였지만 js 파일은 적용이 안됨
 2. setting -> resource pattern 에 js 파일을 추가하여 수정
-3. 최종적으로는 수정후 module 별 compile 을  해결하였다
+3. 최종적으로는 수동적으로 module 별 compile 을  하였다
 
 
 ------------
@@ -26,7 +26,7 @@ intellij 에서 js auto reload 가 안되어 한참을 고생했다
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTMyMTU3MiwxODIzNzExMDU0LC0xOD
-Q5MzkyMjczLDE1OTQ0NjI4NTMsMTkxNjM2NDg3NSwtMTE5ODgy
-NDcwMl19
+eyJoaXN0b3J5IjpbLTE0MDgxMzI4MTcsMTgyMzcxMTA1NCwtMT
+g0OTM5MjI3MywxNTk0NDYyODUzLDE5MTYzNjQ4NzUsLTExOTg4
+MjQ3MDJdfQ==
 -->
