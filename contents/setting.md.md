@@ -17,11 +17,6 @@ Spring Boot Initializer 사용
 - MySQL
 
 ## 작업일지
-
-devtools 적용을 위한 설정
-lombok 적용을 위한 설정
-security 임시 주석처리
-
 ---------------
 initializer 를 사용하여 압축파일을 내려받고, intellij 에서 import 후 실행시 DB 관련 에러가 발생했다
 ```text
