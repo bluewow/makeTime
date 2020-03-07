@@ -17,10 +17,12 @@
 
 ------
 
+spring.jpa.properties.hibernate.format_sql=true  
+spring.jpa.show-sql=true
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzUwODc5MjAsLTY2MjI1MjY5MywtMj
-EwODcwNTc0NSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTg5MTA5MzU2NSwtMTczNTA4NzkyMCwtNj
+YyMjUyNjkzLC0yMTA4NzA1NzQ1LC0yMDg4NzQ2NjEyXX0=
 -->
