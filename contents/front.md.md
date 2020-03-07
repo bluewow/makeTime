@@ -5,7 +5,7 @@
 
 ## 작업일지
 
-- Theme 적용 (CDN)
+- https://bootswatch.com/sketchy/  적용
 ------
 - boot strap 을 이용하여 대략적인 form 진행
 - 정적 디자인 및 Controller 작업
@@ -17,11 +17,6 @@ intellij 에서 js auto reload 가 안되어 한참을 고생했다
 3. 최종적으로는 수동적으로 module 별 compile 을  하였다
 
 ------------
-
-
-
-
-
 
 
 <!--stackedit_data:
