@@ -16,6 +16,7 @@
 서버쪽에서는 JsonFormat 어노테이션 + LocalDate type 을로 전달받음
 
 ------
+query 문 디버깅을 위한 properties 옵션 추가
 
 spring.jpa.properties.hibernate.format_sql=true  
 spring.jpa.show-sql=true
@@ -23,6 +24,6 @@ spring.jpa.show-sql=true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTA5MzU2NSwtMTczNTA4NzkyMCwtNj
-YyMjUyNjkzLC0yMTA4NzA1NzQ1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzM0NDkxODQyLC0xNzM1MDg3OTIwLC02Nj
+IyNTI2OTMsLTIxMDg3MDU3NDUsLTIwODg3NDY2MTJdfQ==
 -->
