@@ -48,15 +48,12 @@ window pc 에 test용 MySQL 설치
 - mysql.exe 환경변수 추가
 	- table 명 변경
 -------
-indexController 웹출력 확인
-
-------
 
 mustache dependencies 추가
 - implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
 ------
-build tools -> gradle -> build, run target intellij 로 변경 (느린이유, test 반영 이유)
+build tools -> gradle -> build, run target intellij 로 변경 (gradle default 인 경우 너무 느리다)
 
 
 
