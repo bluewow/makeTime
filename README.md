@@ -21,7 +21,6 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 - 왼쪽 Page
 	- 날짜 표시
 	- 하이라이트 box
-		- 하이라이트 입력
 	- 진행여부 체크 box
 	- 내용 box
 	- 사진(drog and drop) clip board 와 png 지원?
@@ -55,11 +54,11 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwMDEyMzQwLC01OTU0MzQwNywyNjE1MT
-I0NTAsMTEzNjczMzg4MiwtMTc4MDQ4ODY4Niw0NTI4MzE5NzUs
-MjU3OTI4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3NTcsLTE3Mz
-IxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLTEwODIyMTk3
-MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2NTg0LC
-0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LDE4ODc3
-NzYxODFdfQ==
+eyJoaXN0b3J5IjpbMTAyNzY4ODkzMSw4NDAwMTIzNDAsLTU5NT
+QzNDA3LDI2MTUxMjQ1MCwxMTM2NzMzODgyLC0xNzgwNDg4Njg2
+LDQ1MjgzMTk3NSwyNTc5Mjg0MTMsLTE4MzA3NTg2OTcsLTk2Mz
+ExODc1NywtMTczMjE3NzgyMCwtNTA3MTAzNTg2LC00ODkxMjgz
+NiwtMTA4MjIxOTcwMSwtNDU4NTA5MTUzLC02MzUyMDA5NTgsLT
+E2ODg1NTY1ODQsLTE0NDE1ODk4MDQsNTIzMDIwNjUzLDE1NzM2
+MzAwMzhdfQ==
 -->
