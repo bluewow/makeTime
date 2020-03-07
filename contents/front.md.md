@@ -4,8 +4,6 @@
 
 
 ## 작업일지
-
-- https://bootswatch.com/sketchy/  적용
 ------
 - boot strap 을 이용하여 대략적인 form 진행
 - 정적 디자인 및 Controller 작업
