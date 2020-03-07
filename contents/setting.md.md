@@ -17,7 +17,7 @@ Spring Boot Initializer 사용
 - MySQL
 
 ## 작업일지
----------------
+--------
 initializer 를 사용하여 압축파일을 내려받고, intellij 에서 import 후 실행시 DB 관련 에러가 발생했다
 ```text
 Consider the following:
@@ -62,7 +62,7 @@ build tools -> gradle -> build, run target intellij 로 변경 (gradle default �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQzODgwNzIsLTE0NTg1MjUwNjAsMT
-A5NDY3NjM0LDczMDUwMTMwNSwxMzQ2MzMyNjI2LC0yMTQwNTY4
-MTM3LDE4ODcyMzczODgsODg2NzY3NTczXX0=
+eyJoaXN0b3J5IjpbNDA2ODg5NzU3LC0xNDU0Mzg4MDcyLC0xND
+U4NTI1MDYwLDEwOTQ2NzYzNCw3MzA1MDEzMDUsMTM0NjMzMjYy
+NiwtMjE0MDU2ODEzNywxODg3MjM3Mzg4LDg4Njc2NzU3M119
 -->
