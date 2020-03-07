@@ -47,8 +47,6 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 |--|--|--|--|--|--|--|--|
 |  |  |  |작업중|  |  |  |  |
 
-기획 >>  >>  >>  >> 프론트(JS) >> 1차 완료 및 피드백 >> 피드백 반영 및 2차 완료 >>TODO 및 추가 아이디어   
-
 
 - Tec
 	- backend : Spring Boot, MySQL, JPA, Gradle
@@ -62,11 +60,11 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkzMzMyNjgsLTU5NTQzNDA3LDI2MT
-UxMjQ1MCwxMTM2NzMzODgyLC0xNzgwNDg4Njg2LDQ1MjgzMTk3
-NSwyNTc5Mjg0MTMsLTE4MzA3NTg2OTcsLTk2MzExODc1NywtMT
-czMjE3NzgyMCwtNTA3MTAzNTg2LC00ODkxMjgzNiwtMTA4MjIx
-OTcwMSwtNDU4NTA5MTUzLC02MzUyMDA5NTgsLTE2ODg1NTY1OD
-QsLTE0NDE1ODk4MDQsNTIzMDIwNjUzLDE1NzM2MzAwMzgsMTg4
-Nzc3NjE4MV19
+eyJoaXN0b3J5IjpbLTQ5MjU1MzQ5NCwtNTk1NDM0MDcsMjYxNT
+EyNDUwLDExMzY3MzM4ODIsLTE3ODA0ODg2ODYsNDUyODMxOTc1
+LDI1NzkyODQxMywtMTgzMDc1ODY5NywtOTYzMTE4NzU3LC0xNz
+MyMTc3ODIwLC01MDcxMDM1ODYsLTQ4OTEyODM2LC0xMDgyMjE5
+NzAxLC00NTg1MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NC
+wtMTQ0MTU4OTgwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3
+Nzc2MTgxXX0=
 -->
