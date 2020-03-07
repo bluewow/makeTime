@@ -43,7 +43,11 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 
 ## 진행 상태
 
-기획 >> 개발환경 구축 >> 프론트 >> 백엔드 >> 프론트(JS) >> 1차 완료 및 피드백 >> 피드백 반영 및 2차 완료 >>TODO 및 추가 아이디어   
+|기획|개발환경 구축|프론트|백엔드|프론트(js)|1차 완료|피드백 반영|추가 작업|
+|--|--|--|--|--|--|--|--|
+|  |  |  |	|	|
+
+기획 >>  >>  >>  >> 프론트(JS) >> 1차 완료 및 피드백 >> 피드백 반영 및 2차 완료 >>TODO 및 추가 아이디어   
 
 
 - Tec
@@ -58,11 +62,11 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTQzNDA3LDI2MTUxMjQ1MCwxMTM2Nz
-MzODgyLC0xNzgwNDg4Njg2LDQ1MjgzMTk3NSwyNTc5Mjg0MTMs
-LTE4MzA3NTg2OTcsLTk2MzExODc1NywtMTczMjE3NzgyMCwtNT
-A3MTAzNTg2LC00ODkxMjgzNiwtMTA4MjIxOTcwMSwtNDU4NTA5
-MTUzLC02MzUyMDA5NTgsLTE2ODg1NTY1ODQsLTE0NDE1ODk4MD
-QsNTIzMDIwNjUzLDE1NzM2MzAwMzgsMTg4Nzc3NjE4MSwxNDEx
-Mzg4MTQ0XX0=
+eyJoaXN0b3J5IjpbLTM5OTU2MTY2MCwtNTk1NDM0MDcsMjYxNT
+EyNDUwLDExMzY3MzM4ODIsLTE3ODA0ODg2ODYsNDUyODMxOTc1
+LDI1NzkyODQxMywtMTgzMDc1ODY5NywtOTYzMTE4NzU3LC0xNz
+MyMTc3ODIwLC01MDcxMDM1ODYsLTQ4OTEyODM2LC0xMDgyMjE5
+NzAxLC00NTg1MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NC
+wtMTQ0MTU4OTgwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3
+Nzc2MTgxXX0=
 -->
