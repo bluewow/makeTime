@@ -28,18 +28,13 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- 등록버튼
 
 - 오른쪽 Page
-	- Filter
-	- sorting
-	- 일괄편집
-	- 접는 형태의 list (진행여부에 따른 테두리 색깔처리)
-		- 하이라이트 + 날짜 표시 + 
+	- Filter, sorting, 일괄편집
+	- 접는 형태의 list 
+		- 하이라이트 + 날짜 표시 + 체크표시
 
 추가 아이디어 
-- 공유기능
-	- export .md 형태, pdf, 카톡
-- mode (write, read)
-	- 카드형태의 액자(read 시)
-	- write 시 현재 default
+- 공유기능 : export .md 형태, pdf, 카톡
+- mode (write, read)  : 카드형태의 액자(read 시),  write 시 현재 default
 
 ## 진행 상태
 
@@ -60,11 +55,11 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 	- [Front](https://github.com/bluewow/makeTime/blob/master/contents/front.md.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjU1MzQ5NCwtNTk1NDM0MDcsMjYxNT
-EyNDUwLDExMzY3MzM4ODIsLTE3ODA0ODg2ODYsNDUyODMxOTc1
-LDI1NzkyODQxMywtMTgzMDc1ODY5NywtOTYzMTE4NzU3LC0xNz
-MyMTc3ODIwLC01MDcxMDM1ODYsLTQ4OTEyODM2LC0xMDgyMjE5
-NzAxLC00NTg1MDkxNTMsLTYzNTIwMDk1OCwtMTY4ODU1NjU4NC
-wtMTQ0MTU4OTgwNCw1MjMwMjA2NTMsMTU3MzYzMDAzOCwxODg3
-Nzc2MTgxXX0=
+eyJoaXN0b3J5IjpbODQwMDEyMzQwLC01OTU0MzQwNywyNjE1MT
+I0NTAsMTEzNjczMzg4MiwtMTc4MDQ4ODY4Niw0NTI4MzE5NzUs
+MjU3OTI4NDEzLC0xODMwNzU4Njk3LC05NjMxMTg3NTcsLTE3Mz
+IxNzc4MjAsLTUwNzEwMzU4NiwtNDg5MTI4MzYsLTEwODIyMTk3
+MDEsLTQ1ODUwOTE1MywtNjM1MjAwOTU4LC0xNjg4NTU2NTg0LC
+0xNDQxNTg5ODA0LDUyMzAyMDY1MywxNTczNjMwMDM4LDE4ODc3
+NzYxODFdfQ==
 -->
