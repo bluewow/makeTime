@@ -17,7 +17,6 @@ MakeTime 내용을 실생활에 적용하기 위한 개인 Small Project **Sketc
 ## 기능 
 - Top 화면
 	- 로그인(TODO)
-	- help 화면(TODO)
 
 - 왼쪽 Page
 	- 날짜 표시
