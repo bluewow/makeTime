@@ -9,10 +9,21 @@ body * {
     font-family: CookieRun-Regular;
 }
 
-.underline-effect {
-    border-bottom: 3px solid #b4e7f8;
-    box-shadow: inset 0 -4px 0 #b4e7f8;
+.underline {
+    border-bottom: 3px solid #74C687;
+    box-shadow: inset 0 -4px 0 #74C687;
 }
+
+.green-effect {
+    border-bottom: 1px solid #1bafe8;
+    box-shadow: inset 0 -2px 0 #1bafe8;
+}
+
+.red-effect {
+    border-bottom: 1px solid #E87C87;
+    box-shadow: inset 0 -2px 0 #E87C87;
+}
+
 
 .container {
     padding-top: 15px;
