@@ -10,6 +10,7 @@
 ![기초디자인](https://github.com/bluewow/makeTime/blob/master/assets/init-layout.png)
 ------
 bootstrap, jquery 적용
+
     head 부분
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     
